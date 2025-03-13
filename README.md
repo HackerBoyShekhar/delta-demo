@@ -1,4 +1,6 @@
 # delta-demo
 This is a Demo for Git and Github class 
 <br>
-author shekhar singh
+author- shekhar singh thakur
+
+ 
